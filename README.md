@@ -1,6 +1,4 @@
-# Hertzsprung-Russell-Diagram-Visualization
-
-# 🌌 Stellar Classification & Hertzsprung–Russell Diagram Using Machine Learning
+# 🌌 Stellar Classification & Hertzsprung–Russell Diagram visualization Using Machine Learning
 
 ## 📘 Project Overview
 
