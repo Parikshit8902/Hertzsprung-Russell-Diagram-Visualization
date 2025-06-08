@@ -1,6 +1,6 @@
 # 🌌 Stellar Classification & Hertzsprung–Russell Diagram visualization Using Machine Learning
 
-## 📘 Project Overview
+## Overview
 
 This project aims to automate the classification of stars using machine learning, while also visualizing stellar properties through a scientifically structured **Hertzsprung–Russell (H-R) diagram**. The approach blends **astrophysics** with **data science**, leveraging real-world astronomical data and the power of the **Random Forest algorithm** for accurate classification based on physical attributes like:
 
@@ -11,7 +11,7 @@ This project aims to automate the classification of stars using machine learning
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Develop a classification model for stars based on physical properties.
 2. Pre-process and cleanse a large-scale astronomical dataset.
@@ -21,7 +21,7 @@ This project aims to automate the classification of stars using machine learning
 
 ---
 
-## 🧠 Background & Significance
+## Background & Significance
 
 In astrophysics, stars are traditionally classified based on characteristics such as **temperature**, **brightness**, and **spectral features**. The **Hertzsprung–Russell diagram** plays a pivotal role in visualizing these traits, revealing patterns in stellar evolution.
 
@@ -29,7 +29,7 @@ However, manual classification of stars from massive datasets is inefficient and
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** [The Astronomy Nexus](https://www.astronexus.com/)
 - **Size:** 100,000+ stellar entries
@@ -42,7 +42,7 @@ However, manual classification of stars from massive datasets is inefficient and
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Pre-processing
 
@@ -70,7 +70,7 @@ However, manual classification of stars from massive datasets is inefficient and
 
 ---
 
-## ✅ Results
+## Results
 
 ### 🔍 Classification Performance
 
@@ -78,14 +78,14 @@ However, manual classification of stars from massive datasets is inefficient and
 - **Confusion Matrix:** Demonstrated perfect classification across all classes
 - **Interpretation:** The Random Forest classifier was able to fully capture the relationships between stellar attributes and their classifications.
 
-### 🌠 H-R Diagram
+### H-R Diagram
 
 - Constructed successfully with clear grouping of **Main Sequence**, **Giants**, and **White Dwarfs**.
 - Demonstrated expected patterns — such as inverse relation between temperature and magnitude.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Integrate **Deep Learning** models (e.g., neural networks) for more generalized performance.
 - Add more features like:
@@ -97,7 +97,7 @@ However, manual classification of stars from massive datasets is inefficient and
 
 ---
 
-## 🧾 Technologies Used
+## Technologies Used
 
 | Tool/Library     | Purpose                              |
 |------------------|--------------------------------------|
