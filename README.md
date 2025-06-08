@@ -72,7 +72,7 @@ However, manual classification of stars from massive datasets is inefficient and
 
 ## Results
 
-### 🔍 Classification Performance
+### Classification Performance
 
 - **Model Accuracy:** `100%`
 - **Confusion Matrix:** Demonstrated perfect classification across all classes
